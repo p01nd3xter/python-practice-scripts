@@ -35,3 +35,11 @@ python-practice-scripts/
 ├── screen-locker/           # Screen locker tool
 ├── .gitignore               # Git ignore rules
 └── README.md                # This file
+
+## ⚖️ Copyright & Usage
+
+## © 2026 p01nd3xter. All rights reserved.
+
+`Unauthorized copying, distribution, or commercial use of any scripts in this repository is prohibited.`
+`These scripts are provided for educational purposes only.`
+`Use responsibly and at your own risk.`
