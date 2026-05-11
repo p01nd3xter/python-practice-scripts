@@ -2,9 +2,9 @@
 ```markdown
 # Password Generator
 
-Удобный генератор сильных паролей.
+A handy tool for generating strong passwords.
 
-### Возможности
-- Настраиваемая длина пароля
-- Выбор типов символов (буквы, цифры, спецсимволы)
-- Генерация нескольких паролей за раз
+### Features
+- Customizable password length
+- Choice of character types (letters, numbers, special characters)
+- Generate multiple passwords at once
