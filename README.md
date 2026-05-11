@@ -30,8 +30,8 @@ A collection of simple Python scripts for learning and practicing programming. P
 ```bash
 python-practice-scripts/
 ├── clipboard-monitor/       # Clipboard monitoring scripts
-├── screen-locker/           # Screen locker tool
-├── password-generator/      # Password generator tool
 ├── network-recon/           # Network reconnaissance scripts
-├── README.md                # This file
-└── .gitignore               # Git ignore rules
+├── password-generator/      # Password generator tool
+├── screen-locker/           # Screen locker tool
+├── .gitignore               # Git ignore rules
+└── README.md                # This file
