@@ -2,9 +2,9 @@
 ```markdown
 # Network Recon
 
-Простой инструмент сетевой разведки.
+A simple network reconnaissance tool.
 
-### Функции
-- Получение IP-адреса сайта
-- Проверка доступности хоста (ping)
-- Сканирование популярных портов
+### Features
+- Retrieve a website's IP address
+- Check host availability (ping)
+- Scan common ports
