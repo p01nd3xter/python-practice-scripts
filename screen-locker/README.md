@@ -2,9 +2,9 @@
 ```markdown
 # Screen Locker
 
-Простая программа для блокировки экрана.
+A simple program for locking the screen.
 
-### Функции
-- Блокирует экран паролем
-- Отключает сочетания клавиш (Alt+Tab, Ctrl+Alt+Del и др.)
-- Простой графический интерфейс
+### Features
+- Locks the screen with a password
+- Disables key combinations (Alt+Tab, Ctrl+Alt+Del, etc.)
+- Simple graphical interface
