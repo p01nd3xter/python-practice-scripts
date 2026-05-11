@@ -1,25 +1,26 @@
 # Python Practice Scripts
 
-Коллекция простых Python-скриптов, созданных для обучения и практики программирования.
+A collection of simple Python scripts created for learning and programming practice.
 
-### Содержимое репозитория
+## Repository Contents
 
-| Папка                  | Описание                              |
-|------------------------|---------------------------------------|
-| clipboard-monitor    | Мониторинг и работа с буфером обмена |
-| screen-locker        | Простой блокировщик экрана           |
-| password-generator   | Генератор надёжных паролей            |
-| network-recon        | Базовая разведка сайтов               |
+| Folder | Description |
+|--------|-------------|
+| `clipboard-monitor` | Clipboard monitoring and management |
+| `screen-locker` | Simple screen locker |
+| `password-generator` | Secure password generator |
+| `network-recon` | Basic website reconnaissance |
 
-### Цель проекта
+## Project Goal
 
-Изучение Python, работа с системными функциями, сетью и автоматизацией.
+Learning Python, working with system functions, networking, and automation.
 
-Всё содержимое репозитория создано исключительно в образовательных целях.
+All content in this repository is created strictly for educational purposes.
 
 ---
 
-### Структура проекта
+## Project Structure
+
 ```bash
 python-practice-scripts/
 ├── clipboard-monitor/
