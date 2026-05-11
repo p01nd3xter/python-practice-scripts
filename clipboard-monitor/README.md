@@ -2,9 +2,9 @@
 ```markdown
 # Clipboard Monitor
 
-Простой скрипт для мониторинга буфера обмена.
+A simple script for monitoring the clipboard.
 
-### Возможности
-- Отслеживает изменения в буфере обмена
-- Сохраняет историю скопированных данных
-- Логирует время копирования
+### Features
+- Tracks changes in the clipboard
+- Saves the history of copied data
+- Logs the time of copying
